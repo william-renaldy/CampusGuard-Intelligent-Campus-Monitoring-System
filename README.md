@@ -1,5 +1,5 @@
 ## Campus Guard: A YOLOv8-based Object Detection System for Campus Safety
-
+ 
 The Campus Guard initiative aims to leverage advanced computer vision to promote a safer and more inclusive campus environment. This repository contains a YOLOv8 model trained to detect a variety of campus safety and behavioral concerns, including:
 
 * Violence
