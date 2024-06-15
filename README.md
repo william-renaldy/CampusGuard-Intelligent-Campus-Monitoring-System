@@ -26,4 +26,4 @@ An anonymous reporting portal was developed to enable members of the campus comm
 
 Future work will explore the possibility of integrating the system with existing campus monitoring systems, such as surveillance cameras and access control systems. This integration would augment the coverage and effectiveness of the detection efforts.
 
-**Note:** Due to data privacy concerns, only a partial dataset is included in this repository.
+**Note:** Due to data privacy concerns, only a partial files are included in this repository.
